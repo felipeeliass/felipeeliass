@@ -12,7 +12,7 @@ Meu objetivo é aplicar meus conhecimentos teóricos e técnicos para resolver p
 - **Soft Skills**: Comunicação, trabalho em equipe, resolução de problemas
 
 ## Projetos Destacados
-### [Análise da Bolsa Brasileira](analise-bolsa-brasileira)
+### [Análise da Bolsa Brasileira]([analise-bolsa-brasileira](https://github.com/felipeeliass/analise-bolsa-brasileira))
 Um projeto em andamento onde analiso setores e ações da bolsa brasileira, incluindo inicialmente PETR4, PRIO3 e outras. O foco é em:
 - **Análise técnica**: Médias móveis, indicadores de momentum, correlações.
 - **Análise fundamentalista**: P/L, ROE, Dividend Yield, dívida líquida/EBITDA.
